@@ -1,0 +1,43 @@
+Columns:
+    - Age:
+        - What Is The Biggest 10 Players In Age??
+        - What Is The Smallest 10 Players In Age??
+        - Which Team Has The Biggest Number Of Players Above 30??
+        - Which Team Has The Biggest Number Of Players Between 20 And 30??
+        - Which Team Has The Biggest Number Of Players Less 20??
+        - Number Of Goals And Assists For Players Above 30??
+        - Number Of Goals And Assists For Players Between 20 And 30??
+        - Number Of Goals And Assists For Players Less 20??
+    - Nation:
+        - Distribution Of Countries??
+        - Top 10 Nations Have Goals In PL??
+        - Top 10 Nations Have Assists In PL??
+        - Top 10 Nations Have Goals And Assists In PL??
+        - Top 10 Countries Have Players In PL(Exlude England Players)??
+        - Top 10 Countries Have Players Have Less 20 Years??
+        - Top 10 Teams Have Foreign Players In PL??
+    - Goals:
+        - Top 10 Scorers??
+        - Top 10 Teams Scores Goals?? 
+        - Top 10 MF Scorers??
+        - Top 10 DF Scorers??
+        - Top 10 Teams Them Foreign Players Have Goals In PL??
+        - Top 10 Teams Scores Without Penalties In PL??
+        - Top 10 Teams Scores From Penalties In PL??
+        - Top 10 Players Scores Without Penalties In PL??
+        - Top 10 Players Scores From Penalties In PL??
+    - XG:
+        - Top 10 Teams Have XG??
+        - Top 10 Teams Waste Goals??
+        - Top 10 Teams Exploited The Chances??
+    - Progressive Carries:
+        - Top 10 Players Carries Ball Forward??
+        - Top 10 MF Players Carries Ball Forward??
+        - Top 10 DF Players Carries Ball Forward??
+        - Top 10 FW MF Jocker Players Carries Ball Forward??
+    - Progressive Passers:
+        - Top 10 Players Pass Ball Forward??
+        - Top 10 MF Players Pass Ball Forward??
+        - Top 10 DF Players Pass Ball Forward??
+        - Latest 10 MF Players Played Above 5 Matches Pass Ball Forward??
+        - Latest 10 DF Players Played Above 5 Matches Pass Ball Forward??
